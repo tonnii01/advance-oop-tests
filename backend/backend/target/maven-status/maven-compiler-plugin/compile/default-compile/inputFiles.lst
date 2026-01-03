@@ -1,4 +1,5 @@
 /workspaces/advance-oop-tests/backend/backend/src/main/java/BackendApplication.java
 /workspaces/advance-oop-tests/backend/backend/src/main/java/com/example/app/repository/StudentRepository.java
 /workspaces/advance-oop-tests/backend/backend/src/main/java/com/example/app/App.java
+/workspaces/advance-oop-tests/backend/backend/src/main/java/com/example/controller/StudentController.java
 /workspaces/advance-oop-tests/backend/backend/src/main/java/com/example/app/entity/Student.java
