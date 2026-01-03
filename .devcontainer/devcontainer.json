@@ -1,0 +1,9 @@
+{
+  "name": "Advanced OOP Full Stack",
+  "image": "mcr.microsoft.com/devcontainers/java:17",
+  "features": {
+    "node": "18"
+  },
+  "forwardPorts": [3000, 8080],
+  "postCreateCommand": "cd backend && mvn clean install && cd ../frontend && npm install"
+}
