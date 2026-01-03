@@ -1,3 +1,4 @@
 com/example/app/BackendApplication.class
+com/example/app/repository/StudentRepository.class
 com/example/app/entity/Student.class
 com/example/app/App.class
